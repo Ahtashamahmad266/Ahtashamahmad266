@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+there!+👋;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&duration=3500&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+there!+%F0%9F%91%8B;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
-
 <!-- ==================== SPECIALTY BADGES ==================== -->
 
 <p align="center">
