@@ -78,23 +78,22 @@ I enjoy designing responsive web applications, building scalable backend systems
 ---
 
 # 📌 Featured Projects
-
 <p align="center">
 
 <a href="https://github.com/Ahtashamahmad266/document-scanner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT1&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=document-scanner&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Ahtashamahmad266/review-sentiment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT2&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=review-sentiment&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Ahtashamahmad266/motion-monitor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT3&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=motion-monitor&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Ahtashamahmad266/Al-Shiffa-Hospital-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT4&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=Al-Shiffa-Hospital-Management-System&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
