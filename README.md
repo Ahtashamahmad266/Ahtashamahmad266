@@ -85,15 +85,15 @@ I enjoy designing responsive web applications, building scalable backend systems
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT1&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Ahtashamahmad266/PROJECT2">
+<a href="https://github.com/Ahtashamahmad266/review-sentiment">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT2&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Ahtashamahmad266/PROJECT3">
+<a href="https://github.com/Ahtashamahmad266/motion-monitor">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT3&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Ahtashamahmad266/PROJECT4">
+<a href="https://github.com/Ahtashamahmad266/Al-Shiffa-Hospital-Management-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT4&theme=tokyonight&hide_border=true"/>
 </a>
 
