@@ -81,7 +81,7 @@ I enjoy designing responsive web applications, building scalable backend systems
 
 <p align="center">
 
-<a href="[https://github.com/Ahtashamahmad266/PROJECT1](https://github.com/Ahtashamahmad266/document-scanner)">
+<a href="https://github.com/Ahtashamahmad266/document-scanner">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT1&theme=tokyonight&hide_border=true"/>
 </a>
 
