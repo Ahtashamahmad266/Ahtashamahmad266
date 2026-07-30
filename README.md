@@ -77,29 +77,11 @@ I enjoy designing responsive web applications, building scalable backend systems
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahtashamahmad266&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ahtashamahmad266&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 # 📌 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/Ahtashamahmad266/PROJECT1">
+<a href="[https://github.com/Ahtashamahmad266/PROJECT1](https://github.com/Ahtashamahmad266/document-scanner)">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=PROJECT1&theme=tokyonight&hide_border=true"/>
 </a>
 
