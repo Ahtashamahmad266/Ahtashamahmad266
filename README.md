@@ -131,7 +131,20 @@ I enjoy designing responsive web applications, building scalable backend systems
 </table>
 
 ---
+# 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahtashamahmad266&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtashamahmad266&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahtashamahmad266/Ahtashamahmad266/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
 # 💬 Favorite Quote
 
 <p align="center">
