@@ -76,28 +76,37 @@ I enjoy designing responsive web applications, building scalable backend systems
 </p>
 
 ---
+<h2 align="center">🚀 Featured Projects</h2>
 
-# 📌 Featured Projects
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h3>📄 Document Scanner</h3>
+<p>OpenCV-based document scanner with automatic edge detection.</p>
+<a href="https://github.com/Ahtashamahmad266/document-scanner">View Repository →</a>
+</td>
 
-<a href="https://github.com/Ahtashamahmad266/document-scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=document-scanner&theme=tokyonight&hide_border=true" />
-</a>
+<td align="center" width="50%">
+<h3>💬 Review Sentiment</h3>
+<p>Machine learning model for review sentiment analysis.</p>
+<a href="https://github.com/Ahtashamahmad266/review-sentiment">View Repository →</a>
+</td>
+</tr>
 
-<a href="https://github.com/Ahtashamahmad266/review-sentiment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=review-sentiment&theme=tokyonight&hide_border=true" />
-</a>
+<tr>
+<td align="center">
+<h3>🎥 Motion Monitor</h3>
+<p>Real-time motion detection using computer vision.</p>
+<a href="https://github.com/Ahtashamahmad266/motion-monitor">View Repository →</a>
+</td>
 
-<a href="https://github.com/Ahtashamahmad266/motion-monitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=motion-monitor&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Ahtashamahmad266/Al-Shiffa-Hospital-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtashamahmad266&repo=Al-Shiffa-Hospital-Management-System&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
+<td align="center">
+<h3>🏥 Hospital Management System</h3>
+<p>Desktop application built with object-oriented design.</p>
+<a href="https://github.com/Ahtashamahmad266/Al-Shiffa-Hospital-Management-System">View Repository →</a>
+</td>
+</tr>
+</table>
 ---
 
 # 📈 Contribution Activity
